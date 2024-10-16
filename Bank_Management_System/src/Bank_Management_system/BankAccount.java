@@ -1,7 +1,8 @@
 package Bank_Management_system;
 
 
-    public class BankAccount {
+    public class ramu
+        {
         private String accountNumber;
         private String accountHolder;
         private double balance;
