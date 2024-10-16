@@ -8,10 +8,10 @@ Transaction History : User can view all his past transaction histories show that
 # JAVA
 I have developed all the programming logic using this language .The reason for choosing this language is its secured, robust and portable nature.
 
-#JDBC 
+# JDBC 
 Here in my project , I have used JDBC as an API ,which works as a bridge to provide communication between Java Application and Database System.
 
-#MySQL
+# MySQL
 I have used MySQL for storing all the schemas like-
 Customer Details : Account_ID , Cust_Name , Cust_Balance.
 Transaction Details: Account_Id , Balance , Deposits , Withdrawl
